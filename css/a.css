@@ -1,0 +1,66 @@
+.division{
+
+	border: 0px #022859 solid;
+	text-align: center;
+}
+
+
+.zona1{
+
+	position: relative;
+  	justify-content: center;
+  	align-items: center;
+	background:#002959;
+	height: 10px;
+	
+	
+}
+.zona2{
+	position: relative;
+  	justify-content: center;
+  	align-items: center;
+	background:#FFF;
+	height: 100vh;
+	
+}
+#zona2a{
+
+    width: 600px;
+	position: relative;
+  	margin: 0px auto;
+	background:#FFF;
+		
+}
+
+@media screen and (max-width: 540px) {
+  #zona2a {
+
+    max-width: 100%;
+
+  }
+}
+#aa{
+
+		display: block;
+		max-width: 100%;
+		height: auto;
+	}
+#zona2b{
+	display: none;
+	
+}
+.zona3{
+	position: relative;
+  	justify-content: center;
+  	align-items: center;
+	background:#002959;
+	height: 10px;
+	
+}
+
+.hidden_iframe{
+	
+	display: none;
+}
+
+
